@@ -32,7 +32,8 @@ url = "/projects/processor-simulator/about/"
 
 [[certificates]]
 name = "CompTIA A+ V14"
-description = "In progress"
+acquired = "2025-09-17"
+image = "resume/aplus.svg"
 
 [[languages]]
 name = "English"
